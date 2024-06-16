@@ -1,0 +1,126 @@
+﻿  BSTreeInt.cpp
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(27,16): error C2143: syntax error: missing ';' before '*'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(27,33): error C2238: unexpected token(s) preceding ';'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(28,23): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(28,49): error C2061: syntax error: identifier 'BSTNodeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(29,42): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(29,64): error C2061: syntax error: identifier 'BSTNodeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(31,12): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(33,12): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(40,12): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(41,12): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(47,12): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(19,9): error C2065: 'null': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(25,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(25,43): error C2143: syntax error: missing ',' before '*'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(25,16): error C2511: 'int BSTreeInt::countNodes(const int)': overloaded member function not found in 'BSTreeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(6,7): message : see declaration of 'BSTreeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(26,6): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(27,2): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(27,16): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(27,29): error C2065: 'broj': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(27,38): error C2065: 'broj': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(27,45): error C2065: 'broj': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(28,20): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(28,31): error C2065: 'broj': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(28,50): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(28,62): error C2065: 'broj': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(35,44): error C2761: 'countCloseParents': redeclaration of member is not allowed
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(35,46): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(35,49): error C2597: illegal reference to non-static member 'BSTreeInt::BSTNodeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(35,49): error C3867: 'BSTreeInt::BSTNodeInt': non-standard syntax; use '&' to create a pointer to member
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(35,49): error C2568: '*': unable to resolve function overload
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(35,51): error C2062: type 'int' unexpected
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(35,58): error C2143: syntax error: missing ';' before '{'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(35,58): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(55,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(55,45): error C2143: syntax error: missing ',' before '*'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(55,17): error C2511: 'bool BSTreeInt::nodeInRange(const int)': overloaded member function not found in 'BSTreeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(6,7): message : see declaration of 'BSTreeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(56,6): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(57,6): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(57,24): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(58,21): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(58,57): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(60,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(60,45): error C2143: syntax error: missing ',' before '*'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(66,36): error C2065: 'd': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(66,6): error C2660: 'BSTreeInt::nodeInRange': function does not take 2 arguments
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(23,7): message : see declaration of 'BSTreeInt::nodeInRange'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(66,6): message : while trying to match the argument list '(BSTNodeInt *, int)'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(66,83): error C2065: 'd': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(66,53): error C2660: 'BSTreeInt::nodeInRange': function does not take 2 arguments
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(23,7): message : see declaration of 'BSTreeInt::nodeInRange'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(66,53): message : while trying to match the argument list '(BSTNodeInt *, int)'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(69,36): error C2065: 'd': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(70,37): error C2065: 'd': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(73,16): error C2084: function 'int BSTreeInt::countSmaller(int)' already has a body
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(60,16): message : see previous definition of 'countSmaller'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(77,38): error C2761: 'void BSTreeInt::deleteTree(BSTNodeInt *)': redeclaration of member is not allowed
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(77,40): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(77,43): error C2597: illegal reference to non-static member 'BSTreeInt::BSTNodeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(77,43): error C3867: 'BSTreeInt::BSTNodeInt': non-standard syntax; use '&' to create a pointer to member
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(77,43): error C2568: '*': unable to resolve function overload
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(78,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(79,2): error C2059: syntax error: 'if'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(79,22): error C2143: syntax error: missing ';' before '{'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(79,22): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(84,1): error C2059: syntax error: '}'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(84,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(91,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(91,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(98,33): error C2761: 'int BSTreeInt::maxAbs(BSTNodeInt *,int &)': redeclaration of member is not allowed
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(98,35): error C2065: 'node': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(98,39): error C2597: illegal reference to non-static member 'BSTreeInt::BSTNodeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(98,39): error C3867: 'BSTreeInt::BSTNodeInt': non-standard syntax; use '&' to create a pointer to member
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(98,39): error C2568: '*': unable to resolve function overload
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(98,41): error C2062: type 'int' unexpected
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(99,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(99,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(127,14): error C2065: 'node': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(128,43): error C2065: 'node': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(129,9): error C2065: 'node': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(131,52): error C2761: 'int BSTreeInt::razlikaSumeParnihNeparnih(BSTNodeInt *,int &)': redeclaration of member is not allowed
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(131,54): error C2065: 'node': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(131,58): error C2597: illegal reference to non-static member 'BSTreeInt::BSTNodeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(131,58): error C3867: 'BSTreeInt::BSTNodeInt': non-standard syntax; use '&' to create a pointer to member
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(131,58): error C2568: '*': unable to resolve function overload
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(131,60): error C2062: type 'int' unexpected
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(131,96): error C2143: syntax error: missing ';' before '{'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(131,96): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(149,14): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(150,9): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(151,7): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(152,11): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(153,12): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(154,4): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(154,10): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(156,4): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(156,10): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(162,14): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(162,28): error C2065: 'par': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(163,9): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(164,3): error C2065: 'par': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(164,9): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(165,7): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(166,4): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(166,10): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(168,4): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(168,10): error C2065: 'ptr': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(172,14): error C2061: syntax error: identifier 'BSTNodeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(176,11): error C2065: 'par': undeclared identifier
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.cpp(176): fatal  error C1003: error count exceeds 100; stopping compilation
+  main.cpp
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(27,16): error C2143: syntax error: missing ';' before '*'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(27,33): error C2238: unexpected token(s) preceding ';'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(28,23): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(28,49): error C2061: syntax error: identifier 'BSTNodeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(29,42): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(29,64): error C2061: syntax error: identifier 'BSTNodeInt'
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(31,12): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(33,12): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(40,12): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(41,12): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\BSTreeInt.h(47,12): error C2327: 'BSTreeInt::BSTNodeInt': is not a type name, static, or enumerator
+C:\Users\stefa\Desktop\Strukture Kol2\Blanketi\Januar 2024\CelobrojnoBinarnoStabloPretrage\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
